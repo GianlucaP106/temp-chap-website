@@ -1,1 +1,2 @@
-# temp-chap-website
+# chap-website
+Repository for CHAP's website.
