@@ -44,7 +44,8 @@ html, body {
     position: absolute;
     border-radius: 50%;
     /* background-color: #E4002B; */
-    background-color: rgba(228, 0, 43, 0.75);
+    /* background-color: rgba(228, 0, 43, 0.75); */
+    background-color: rgba(91, 31, 110, 0.65);
 }
 
 .ball1 {
